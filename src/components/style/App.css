@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.edit-display{
+  display: flex;
+  height: 100vh;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
