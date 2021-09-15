@@ -1,0 +1,22 @@
+.profile-picture{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 3px solid #000;
+}
+
+.container-navbar{
+    display: flex;
+    flex-direction: column;
+    background: rgba(61, 71, 41, 0.205);
+}
+
+.container-navbar ul{
+    list-style: none;
+}
+
+.container-navbar ul li a{
+    text-decoration: none;
+    color: #000;
+}
